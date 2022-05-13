@@ -1,0 +1,17 @@
+3Input:
+Nama Mahasiswa    :
+Jumlah Matkul     :
+Nama Matkul 1 dst :
+Nilai tugas       :
+Nilai Uts         :
+Nilai Uas         :
+
+
+Output
+Nama  : arya
+============================================================
+Mata Kuliah         Tugas      UTS      UAS      Nilai Akhir
+Matkul A              90        86       95        95.5
+Matkul B              80        100      95        93.75
+Matkul C              95        95       90        92.75
+Nilai Rata"           90        86       95   
